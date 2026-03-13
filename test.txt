@@ -2,4 +2,5 @@ This is a test file.
 This is a contribution.
 This is another contribution.
 Hello from GitHub!
+I want to have a conflict!
 Updated file with my CNP: 27837183718371831
